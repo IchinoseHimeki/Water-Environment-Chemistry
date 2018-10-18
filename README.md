@@ -7,6 +7,6 @@ Something useful for Water Environment Chemistry like matlab figures.
 ——来自一个有毒的水文老男人  
 
 ## Index  
-[四元酸pC与pH,pα与pH的曲线]()  
+[四元酸pC与pH,pα与pH的曲线](https://github.com/IchinoseHimeki/Water-Environment-Chemistry/tree/master/H4P2O7)  
 ## Upadate Notes  
 2018.10.18 建立库并开始第一个项目  
