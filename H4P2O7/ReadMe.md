@@ -1,8 +1,9 @@
 # 说明
+## [H4P2O7.m](https://github.com/IchinoseHimeki/Water-Environment-Chemistry/blob/master/H4P2O7/H4P2O7.m) 说明
 
 此处为四元酸（以焦磷酸为例进行分析） 
 
-## 封闭体系 
+### 封闭体系 
 已知各个解离常数，通过解离平衡，以及体系内焦磷酸根物质量守恒可计算各个组分占比pα与pH之间的关系，如图![pα-pH](https://raw.githubusercontent.com/IchinoseHimeki/Water-Environment-Chemistry/master/H4P2O7/p%CE%B1-pH.png)
 
 可推出以下关系
@@ -17,7 +18,7 @@
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;\alpha&space;_{[X^{x-}]}=\frac{K_a_1K_a_2\cdots&space;K_a_{x}&space;}{[H^&plus;]^x&plus;K_a_1[H^&plus;]^{(x-1)}&plus;K_a_1K_a_2[H^&plus;]^{(x-2)}&plus;\cdots&space;&plus;K_a_1K_a_2\cdots&space;K_a_{x}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\fn_phv&space;\alpha&space;_{[X^{x-}]}=\frac{K_a_1K_a_2\cdots&space;K_a_{x}&space;}{[H^&plus;]^x&plus;K_a_1[H^&plus;]^{(x-1)}&plus;K_a_1K_a_2[H^&plus;]^{(x-2)}&plus;\cdots&space;&plus;K_a_1K_a_2\cdots&space;K_a_{x}}" title="\alpha _{[X^{x-}]}=\frac{K_a_1K_a_2\cdots K_a_{x} }{[H^+]^x+K_a_1[H^+]^{(x-1)}+K_a_1K_a_2[H^+]^{(x-2)}+\cdots +K_a_1K_a_2\cdots K_a_{x}}" /></a>
 
-## 开放体系同上
+### 开放体系同上
 如图![pα-pH]( https://raw.githubusercontent.com/IchinoseHimeki/Water-Environment-Chemistry/master/H4P2O7/pC-pH.png)
 
 利用平衡常数即可解出通用公式
@@ -26,5 +27,14 @@
 
 **需注意此时情况是否与外界存在气体交换问题，如碳酸等需要考虑分压等问题。**
 
-## 其他内容
+###其他内容
 待补充.
+
+## [K.m](https://github.com/IchinoseHimeki/Water-Environment-Chemistry/blob/master/H4P2O7/K.m) 说明
+
+用于在给出吉布斯自由能，焓变以及温度的前提下计算反应平衡常数K
+
+### TODO
+1. 实现规范输入
+2. 实现对外部程序的接口
+3. 计算指定条件下是否该反应是否可以自发发生
