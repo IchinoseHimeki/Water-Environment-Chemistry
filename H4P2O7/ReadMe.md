@@ -20,7 +20,9 @@
 <a href="https://www.codecogs.com/eqnedit.php?latex=\fn_phv&space;\alpha&space;_{[X^{x-}]}=\frac{K_a_1K_a_2\cdots&space;K_a_{x}&space;}{[H^&plus;]^x&plus;K_a_1[H^&plus;]^{(x-1)}&plus;K_a_1K_a_2[H^&plus;]^{(x-2)}&plus;\cdots&space;&plus;K_a_1K_a_2\cdots&space;K_a_{x}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\fn_phv&space;\alpha&space;_{[X^{x-}]}=\frac{K_a_1K_a_2\cdots&space;K_a_{x}&space;}{[H^&plus;]^x&plus;K_a_1[H^&plus;]^{(x-1)}&plus;K_a_1K_a_2[H^&plus;]^{(x-2)}&plus;\cdots&space;&plus;K_a_1K_a_2\cdots&space;K_a_{x}}" title="\alpha _{[X^{x-}]}=\frac{K_a_1K_a_2\cdots K_a_{x} }{[H^+]^x+K_a_1[H^+]^{(x-1)}+K_a_1K_a_2[H^+]^{(x-2)}+\cdots +K_a_1K_a_2\cdots K_a_{x}}" /></a>
 
 ### 开放体系同上
+
 如图
+
 ![pα-pH]( https://raw.githubusercontent.com/IchinoseHimeki/Water-Environment-Chemistry/master/H4P2O7/pC-pH.png)
 
 利用平衡常数即可解出通用公式
